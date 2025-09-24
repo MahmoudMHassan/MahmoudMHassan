@@ -322,7 +322,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning more about **Semantic technologies and how to give/infer meaning to/from data 🔐 🔐**
+- 🌱 I’m currently learning more about semantic technologies and how to give/infer meaning to/from data as well as how to streamline/stabilize agents in software systems🔐 🔐
 - 📫 How to reach me **<mahmoudhassantaw@gmail.com>**
 
 ```diff
