@@ -333,5 +333,3 @@
 + <Lifetime Traveller aiming to pin every destination in the 🌍 />,
   ]
 ```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=13&pause=1000&color=C55A39C0&vCenter=true&multiline=true&width=435&lines=There+is+always+something+out+there+to+learn+more+about)](https://git.io/typing-svg)
